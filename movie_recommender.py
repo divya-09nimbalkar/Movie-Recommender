@@ -1,6 +1,6 @@
 """
 Movie Recommendation System
-Professional Recommendation Engine with Multiple Algorithms
+Professional Recommendation Engine with Multiple Algorithms.
 
 This module provides a comprehensive movie recommendation system featuring:
 - Collaborative Filtering (user-based and item-based)
